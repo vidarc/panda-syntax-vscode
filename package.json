@@ -33,7 +33,7 @@
 		]
 	},
 	"devDependencies": {
-		"@crystal-ball/eslint-config-eloquence": "^1.0.0",
+		"@crystal-ball/eslint-config-eloquence": "^6.3.0",
 		"js-yaml": "^3.8.4"
 	},
 	"__metadata": {
